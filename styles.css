@@ -1,4 +1,3 @@
-/* Global Styles */
 body {
   margin: 0;
   font-family: 'IBM Plex Mono', monospace;
@@ -203,16 +202,3 @@ footer {
   }
 }
 
-/* Experimental Style: Dark Mode toggle (future) */
-/*
-.dark-toggle {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: #000;
-  color: #00ffc3;
-  padding: 10px 15px;
-  border-radius: 50%;
-  cursor: pointer;
-}
-*/
