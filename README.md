@@ -28,15 +28,14 @@ Resume:
    The resume is available for download via a button on the homepage.File: resume.pdf
 
 File Structure:
-
    Portfolio
-    ├── index.html
-    ├── styles.css
-    ├── resume.pdf
-    ├── md.jpg
-    ├── ctn.jpg
-    ├── npt.jpg
-    └── lg.jpg
+     .index.html
+     .styles.css
+     .resume.pdf
+     .md.jpg
+     .ctn.jpg
+     .npt.jpg
+     .lg.jpg
 
 Deployment Instructions:
 
