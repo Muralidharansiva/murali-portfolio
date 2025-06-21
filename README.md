@@ -29,13 +29,14 @@ Resume:
 
 File Structure:
    Portfolio
-     .index.html
-     .styles.css
-     .resume.pdf
-     .md.jpg
-     .ctn.jpg
-     .npt.jpg
-     .lg.jpg
+    ├── index.html
+    ├── styles.css
+    ├── resume.pdf
+    ├── md.jpg
+    ├── ctn.jpg
+    ├── npt.jpg
+    └── lg.jpg
+
 
 Deployment Instructions:
 
